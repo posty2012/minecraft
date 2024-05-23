@@ -11,3 +11,4 @@ Command /fly:
         set player's flight mode to false
         Delete {fly.%player%}
         Stop
+       <img>
